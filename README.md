@@ -1,6 +1,6 @@
 ## OASIS TC Open Repository: dita-specializations
 
-This GitHub public repository [dita-specializations](https://github.com/oasis-open/dita-specializations) was created at the request of the [OASIS Darwin Information Typing Architecture (DITA) TC](https://www.oasis-open.org/committees/dita/) as an [OASIS TC Open Repository](https://www.oasis-open.org/resources/open-repositories/) to support development of open source resources related to Technical Committee work.
+(test) This GitHub public repository [dita-specializations](https://github.com/oasis-open/dita-specializations) was created at the request of the [OASIS Darwin Information Typing Architecture (DITA) TC](https://www.oasis-open.org/committees/dita/) as an [OASIS TC Open Repository](https://www.oasis-open.org/resources/open-repositories/) to support development of open source resources related to Technical Committee work.
 
 While this TC Open Repository remains associated with the sponsor TC, its development priorities, leadership, intellectual property terms, participation rules, and other matters of governance are separate and distinct from the OASIS TC Process and related policies.
 
